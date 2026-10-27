@@ -2,11 +2,11 @@ How to Run the Programs
 
 All three programs have already been compiled into .exe files and can be run on Windows without compiling the source code again.
 
-Open Visual Studio Code (VS Code).
+Open Visual Studio Code.
 
-Select File → Open Folder and open the folder for the challenge you want to run.
+Select File > Open Folder and open the folder for the challenge you want to run.
 
-Open a new terminal using Terminal → New Terminal.
+Open a new terminal using Terminal > New Terminal.
 
 Run the appropriate command below.
 
@@ -24,4 +24,3 @@ Challenge 3 – Book Manager
 
 .\bookmanager.exe
 
-Note: Ensure bookData.txt is in the same folder as the executable.
